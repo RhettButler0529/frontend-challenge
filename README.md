@@ -15,7 +15,7 @@ Clone this repo
 > npm start
 ```
 
-Answer the follow questions inline, and commit it to your submission
+Answer
 
 **1.** Explain the flow of data from the store to the UI and back as simply as you can.
 
@@ -39,9 +39,9 @@ React and Redux.
 
 I looked and understand about the createSlice of Redux in this project
 
-*Sorry but I didn't do the remove unique cart part in this project due to the private problem. Hope you to understand me. Thanks in advance. *
+**Sorry but I didn't do the remove unique cart part in this project due to the private problem. Hope you to understand me. Thanks in advance. **
 
-This is my email - ernestpapyan96@gmail.com
-This is my telegram - https://t.me/smartdev1
+**This is my email - ernestpapyan96@gmail.com
+This is my telegram - https://t.me/smartdev1**
 
 Thanks for your patience.
